@@ -31,6 +31,15 @@
               {% endif %}
             </a>
           </li>
+          <!-- Projects -->
+          <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/projects/' | relative_url }}">
+              projects
+              {% if page.title == "projects" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           <!-- Other pages -->
           <!--- Note: This section was removed  --->
           {% if site.enable_darkmode %}
