@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  <!--- image: prof_pic.jpg --->
+  image: img1.jpg
   <!--address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -19,7 +19,16 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there! :wave:
 
-I am a third-year undergraduate in the department of Metallurgical & Materials Engineering at IIT Madras. My research interests are materials informatics, atomistic modelling and high-performance computing. 
+I am a third-year undergraduate in the department of [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in/). I am interested in the applications of AI and statistics in materials science. 
+
+My main research interests are:
+* Materials Informatics 
+* Atomistic modelling 
+* Solid-state physics
+* High-Performance Computing
+
+In my leisure time, I enjoy reading fiction, baking and cycling through the scenic IIT Madras campus with my friends. 
+
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --->
