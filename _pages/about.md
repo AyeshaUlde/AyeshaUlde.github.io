@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 <!--- description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc. --->
 
@@ -27,7 +27,7 @@ My main research interests are:
 * Solid-state physics
 * High-Performance Computing
 
-In my leisure time, I enjoy reading fiction, baking and cycling through the scenic IIT Madras campus with my friends. 
+In my leisure time, I enjoy reading books, baking and cycling through the scenic IIT Madras campus with my friends. 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
 

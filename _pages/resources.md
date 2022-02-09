@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resources
+title: Resources
 permalink: /resources/
 description: These are some resources that I've found to be quite useful
 nav: true
