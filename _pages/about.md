@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there! :wave:
 
-I am a third-year undergraduate in the department of [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) at [IIT Madras](https://www.iitm.ac.in/). I am interested in the applications of AI and statistics in materials science. 
+I am a fourth-year Interdisciplinary Dual Degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at [IIT Madras](https://www.iitm.ac.in/). I am interested in the applications of AI and statistics in Materials Science. 
 
 My main research interests are:
 * Materials Informatics 
