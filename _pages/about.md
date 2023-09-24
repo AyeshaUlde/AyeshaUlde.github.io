@@ -19,15 +19,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there! :wave:
 
-I am a fifth-year Interdisciplinary Dual Degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at [IIT Madras](https://www.iitm.ac.in/). I am interested in the applications of AI and statistics in Materials Science. 
+I am a fifth-year Interdisciplinary Dual Degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at [IIT Madras](https://www.iitm.ac.in/). I am interested in Computational Materials Science, particularly Machine Learning applications at the atomic scale. 
 
-My main research interests are:
+My broad research interests are:
 * Materials Informatics 
-* Atomistic modelling 
-* Solid-state physics
+* Atomistic Modeling 
+* Solid-state Physics
 * High-Performance Computing
 
-In my leisure time, I enjoy reading books, baking and cycling through the scenic IIT Madras campus with my friends. 
+In my leisure time, I enjoy reading books, baking, and cycling through the scenic IIT Madras campus with my friends. I also love exploring museums and trying new food.
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
 
