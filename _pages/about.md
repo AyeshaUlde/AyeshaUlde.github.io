@@ -27,7 +27,7 @@ My broad research interests are:
 * Solid-state Physics
 * High-Performance Computing
 
-Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
+Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques in the [MADES laboratory](https://epfl-mades.github.io/) as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
 
 When I am not doing research, you can find me reading fiction or baking. I also love exploring museums and trying new food.
 
