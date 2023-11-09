@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: img1.jpg
+  image: img_4219.jpg
   <!--address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
