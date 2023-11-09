@@ -27,7 +27,9 @@ My broad research interests are:
 * Solid-state Physics
 * High-Performance Computing
 
-In my leisure time, I enjoy reading books, baking, and cycling through the scenic IIT Madras campus with my friends. I also love exploring museums and trying new food.
+Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
+
+When I am not doing research, you can find me reading fiction or baking. I also love exploring museums and trying new food.
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
 
