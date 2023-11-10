@@ -22,3 +22,7 @@ horizontal: false
 
 #### **Markdown**
 * [Markdown Guide](https://www.markdownguide.org/)
+
+#### **LAMMPS**
+* [LAMMPS Tutorials by Dr. Tschopp](https://icme.hpc.msstate.edu/mediawiki/index.php/LAMMPS_tutorials.html)
+* [LAMMPS Tutorials by Dr. Gravelle](https://lammpstutorials.github.io/index.html)
