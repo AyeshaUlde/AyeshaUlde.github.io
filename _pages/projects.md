@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are some projects I've really enjoyed working on :)
+description: Here are some personal and course projects I've really enjoyed working on :)
 nav: true
 display_categories: [work, fun]
 horizontal: false
