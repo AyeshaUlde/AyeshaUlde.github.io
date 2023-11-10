@@ -8,7 +8,8 @@ profile:
   align: right
   image: img_4219.jpg
   address: >
-    <p>:round_pushpin: EPFL, Switzerland</p>
+    <p style="text-align: center;">:round_pushpin: EPFL, Switzerland</p>
+
   <!--address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
