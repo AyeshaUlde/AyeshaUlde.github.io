@@ -4,14 +4,6 @@ title: About
 permalink: /
 <!--- description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc. --->
 
-profile:
-  align: center
-  image: img_4219.jpg
-  <!--address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p> --->
-
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -26,6 +18,14 @@ My broad research interests are:
 * Atomistic Modeling 
 * Solid-state Physics
 * High-Performance Computing
+
+profile:
+  align: center
+  image: img_4219.jpg
+  <!--address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p> --->
 
 Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques in the [MADES laboratory](https://epfl-mades.github.io/) as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
 
