@@ -7,7 +7,8 @@ permalink: /
 profile:
   align: right
   image: img_4219.jpg
-  address: :round_pushpin: EPFL, Switzerland
+  address: 
+    <p>:round_pushpin: EPFL, Switzerland</p>
   <!--address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
