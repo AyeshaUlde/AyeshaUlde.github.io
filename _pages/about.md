@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there! :wave:
 
-I am a fifth-year Interdisciplinary Dual Degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at the [Indian Institute of Technology (IIT) Madras](https://www.iitm.ac.in/). I am interested in Computational Materials Science, particularly Machine Learning applications at the atomic scale. 
+I am a fifth-year interdisciplinary dual degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at the [Indian Institute of Technology (IIT) Madras](https://www.iitm.ac.in/). I am interested in computational materials science, particularly machine learning applications at the atomic scale. 
 
 My broad research interests are:
 * Materials Informatics 
