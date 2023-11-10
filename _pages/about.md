@@ -5,7 +5,7 @@ permalink: /
 <!--- description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc. --->
 
 profile:
-  align: left
+  align: right
   image: img_4219.jpg
   <!--address: >
     <p>555 your office number</p>
@@ -30,7 +30,7 @@ My broad research interests are:
 
 Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques in the [MADES laboratory](https://epfl-mades.github.io/) as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
 
-When I am not doing research, you can find me reading fiction or baking. I also love exploring museums and trying new food.
+You can find me reading fiction or baking when I am not doing research. I also love exploring museums and trying new food.
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
 
