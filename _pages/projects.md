@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /Projects/
 description: Here are some projects I've really enjoyed working on :)
 nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
 
-#### [**Performance and Cost Assessment of Machine Learning Interatomic Potentials :octocat:**](https://github.com/AyeshaUlde/CH5650-Term-Project)
+#### [**Performance and Cost Assessment of Machine Learning Interatomic Potentials :octocat: **](https://github.com/AyeshaUlde/CH5650-Term-Project)
 
 Recreated the results of Spectral Neighbour Analysis Potential (SNAP) for Mo, Si, Ni and Cu in [Performance and Cost Assessment of Machine Learning Interatomic Potentials](https://pubs.acs.org/doi/10.1021/acs.jpca.9b08723) by Zuo et al. 
 
