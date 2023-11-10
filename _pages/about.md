@@ -7,8 +7,8 @@ permalink: /
 profile:
   align: right
   image: img_4219.jpg
-  address: >
-    <p style="text-align: center;">:round_pushpin: EPFL, Switzerland</p>
+  <!--address: >
+    <p style="text-align: center;">:round_pushpin: EPFL, Switzerland</p>--->
 
   <!--address: >
     <p>555 your office number</p>
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there! :wave:
 
-I am a fifth-year Interdisciplinary Dual Degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at [IIT Madras](https://www.iitm.ac.in/). I am interested in Computational Materials Science, particularly Machine Learning applications at the atomic scale. 
+I am a fifth-year Interdisciplinary Dual Degree (B.Tech. in [Metallurgical & Materials Engineering](http://mme.iitm.ac.in/) & M.Tech. in Computational Engineering) at the [Indian Institute of Technology (IIT) Madras](https://www.iitm.ac.in/). I am interested in Computational Materials Science, particularly Machine Learning applications at the atomic scale. 
 
 My broad research interests are:
 * Materials Informatics 
@@ -30,8 +30,7 @@ My broad research interests are:
 * Solid-state Physics
 * High-Performance Computing
 
-
-Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques in the [MADES laboratory](https://epfl-mades.github.io/) as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
+Currently, I am predicting precipitates in ternary Mg alloys using first-principles techniques in the [MADES laboratory](https://epfl-mades.github.io/) at École Polytechnique Fédérale de Lausanne (EPFL) as part of the [MARVEL Inspire Potentials Master's Fellowship.](https://nccr-marvel.ch/news/communication/new-inspire-potentials-fellows-april-2023) 
 
 You can find me reading fiction or baking when I am not doing research. I also love exploring museums and trying new food.
 
